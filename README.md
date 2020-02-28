@@ -8,7 +8,7 @@
 **Birim**: Edebiyat Fakültesi
 **Bölüm**: Felsefe Bölümü
 
- ## **İletişim Bilgileri**:
+## **İletişim Bilgileri**:
 
 **email**: calaozcan@gmail.com
-**twitter**: ![](https://twitter.com/cala_ozcan)
+**twitter**: [https://twitter.com/cala_ozcan](https://twitter.com/cala_ozcan)
