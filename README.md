@@ -5,13 +5,13 @@
 
 ## **Kurum Bilgileri**:
  
-**Birim**: Edebiyat Fakültesi
-**Bölüm**: Felsefe Bölümü
+- **Birim**: Edebiyat Fakültesi 
+- **Bölüm**: Felsefe Bölümü
 
 ## **İletişim Bilgileri**:
 
-**email**: calaozcan@gmail.com
-**twitter**: [https://twitter.com/cala_ozcan](https://twitter.com/cala_ozcan)
+- **email**: calaozcan@gmail.com 
+- **twitter**: [https://twitter.com/cala_ozcan](https://twitter.com/cala_ozcan)
 
 ## **Eğitim Bilgileri**:
 
