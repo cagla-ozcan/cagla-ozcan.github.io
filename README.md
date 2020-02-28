@@ -18,7 +18,7 @@
 Derece	  	       | Üniversite | Bölüm | Başlangıç Yılı | Bitiş Yılı |
 -----------------  | ------------- | --- | --- | --- |
 **Lisans**  	   | Mimar Sinan Güzel Sanatlar Üniversitesi | Felsefe | 2010 | 2015 |
-**Yüksek Lisasn**  | İstanbul Üniversitesi | Felsefe | 2016 | 2019 | 
+**Yüksek Lisans**  | İstanbul Üniversitesi | Felsefe | 2016 | 2019 | 
 **Doktora**	       | İstanbul Üniversitesi | Felsefe | 2019 |   -  |
 
 
