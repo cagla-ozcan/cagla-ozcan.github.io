@@ -6,19 +6,20 @@
 ## **Kurum Bilgileri**:
  
 **Birim**: Edebiyat Fakültesi
-
 **Bölüm**: Felsefe Bölümü
 
 ## **İletişim Bilgileri**:
 
 **email**: calaozcan@gmail.com
-
 **twitter**: [https://twitter.com/cala_ozcan](https://twitter.com/cala_ozcan)
 
 ## **Eğitim Bilgileri**:
 
-**Linans**: Mimar Sinan Güzel Sanatlar Üniversitesi Felsefe Bölümü
+Derece	  	       | Üniversite | Bölüm | Başlangıç Yılı | Bitiş Yılı |
+-----------------  | ------------- | --- | --- | --- |
+**Lisans**  	   | Mimar Sinan Güzel Sanatlar Üniversitesi | Felsefe | 2010 | 2015 |
+**Yüksek Lisasn**  | İstanbul Üniversitesi | Felsefe | 2016 | 2019 | 
+**Doktora**	       | İstanbul Üniversitesi | Felsefe | 2019 |   -  |
 
-**Yüksek Linans**: İstanbul Üniversitesi Felsefe Bölümü
 
-**Doktora**: İstanbul Üniversitesi Felsefe Bölümü
+
