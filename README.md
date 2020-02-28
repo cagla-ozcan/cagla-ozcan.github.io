@@ -14,3 +14,11 @@
 **email**: calaozcan@gmail.com
 
 **twitter**: [https://twitter.com/cala_ozcan](https://twitter.com/cala_ozcan)
+
+## **Eğitim Bilgileri**:
+
+**Linans**: Mimar Sinan Güzel Sanatlar Üniversitesi Felsefe Bölümü
+
+**Yüksek Linans**: İstanbul Üniversitesi Felsefe Bölümü
+
+**Doktora**: İstanbul Üniversitesi Felsefe Bölümü
